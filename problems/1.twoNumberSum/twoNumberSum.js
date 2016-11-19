@@ -1,4 +1,4 @@
-//这个方法还是很慢，思想很简单，就是链表的操作。
+//this is dum
 var addTwoNumbers = function(l1, l2) {
     var add = 0,
 		ans,
