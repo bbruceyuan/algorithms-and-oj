@@ -12,6 +12,7 @@ var twoSum = function(numbers, target) {
         } else {
             j--;
         }
+        res = numbers[i] + numbers[j];
     }
     return [i+ 1, j + 1];
 };
