@@ -5,16 +5,16 @@
  */
 
 var containsNearbyDuplicate = function(nums, k) {
-  var pos = [];
-  for(var i = 0, len = nums.length; i < len; i++) {
-    if (pos[nums[i]] === undefined) 
-      pos[nums[i]] = i;
-    else {
-      if (i - pos[nums[i]] <= k) 
-        return true;
-      pos[nums[i]] = i;
+    let pos = [];
+    for (let i = 0; i < nums.length; i++) {
+        if (pos[nums[i]] === undefined) {
+            pos[nums[i]] = i;
+        } else {
+            if (i - pos[nums[i]] <= k) {
+                return true;
+            }
+            pos[nums[i]] = i;
+        }
     }
-  }
-
-  return false;
+    return false;
 };
