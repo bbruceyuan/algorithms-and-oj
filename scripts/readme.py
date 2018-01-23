@@ -127,7 +127,7 @@ class TableInform:
                             folder_url = os.path.join(folder_url, item)
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
                             # print(folder_url)
-                            self.table_item[folder[:3]].python = '[python]({})'.format(folder_url)
+                            self.table_item[folder[:3]].python = '[Python]({})'.format(folder_url)
                         elif item.endswith('.java'):
                             complete_info.solved['java'] += 1
                             folder_url = folder.replace(' ', "%20")
@@ -230,10 +230,10 @@ class Readme:
                     'id': item.id_,
                     'title': '[{}]({}) {}'.format(item.title, item.url, _lock),
                     'difficulty': item.difficulty,
-                    'js': '[JavaScript]({})'.format(item.javascript) if item.javascript else 'To Do',
-                    'python': '[Python]({})'.format(item.python) if item.python else 'To Do',
-                    'c++': '[C++]({})'.format(item.c_plus_plus) if item.c_plus_plus else 'To Do',
-                    'java': '[Java]({})'.format(item.java) if item.java else 'To Do'
+                    'js': item.javascript if item.javascript else 'To Do',
+                    'python': item.python if item.python else 'To Do',
+                    'c++': item.c_plus_plus if item.c_plus_plus else 'To Do',
+                    'java': item.java if item.java else 'To Do'
                 }
                 line = '|{id}|{title}|{difficulty}|{js}|{python}|{c++}|{java}|\n'.format(**data)
                 f.write(line)
