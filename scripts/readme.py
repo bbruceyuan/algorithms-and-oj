@@ -44,7 +44,7 @@ class Question:
     def __repr__(self):
         """
         没啥用，我为了调试方便写的
-        :return: 
+        :return:
         """
         return str(self.id_) + ' ' + str(self.title) + ' ' + str(self.url)
 
@@ -57,11 +57,12 @@ class TableInform:
         self.table = []
         # this is the element of question
         self.table_item = {}
+        self.locked = 0
 
     def get_leetcode_problems(self):
         """
         used to get leetcode inform
-        :return: 
+        :return:
         """
         # we should look the response data carefully to find law
         # return byte. content type is byte
@@ -80,6 +81,8 @@ class TableInform:
             elif int(id_) < 100:
                 id_ = '0' + id_
             lock = question['paid_only']
+            if lock:
+                self.locked += 1
             difficulty = difficultys[question['difficulty']['level'] - 1]
             url = Config.leetcode_url + url + '/description/'
             q = Question(id_, name, url, lock, difficulty)
@@ -107,6 +110,7 @@ class TableInform:
         self.get_leetcode_problems()
         # the total problem nums
         complete_info.total = len(self.table)
+        complete_info.lock = self.locked
         self.__create_folder(oj)
         oj_algorithms = Config.local_path + '/' + oj + '-algorithms'
         # 查看os.walk看具体返回的是什么东西
@@ -149,7 +153,7 @@ class TableInform:
                             # print(folder_url)
                             self.table_item[folder[:3]].javascript = '[JavaScript]({})'.format(folder_url)
         complete_num = sorted(complete_info.solved.items(), key=lambda item_: item_[1], reverse=True)[0][1]
-        readme = Readme(complete_info.total, complete_num, complete_info.solved)
+        readme = Readme(complete_info.total, complete_num, complete_info.lock, complete_info.solved)
         readme.create_leetcode_readme([self.table, self.table_item])
         print('-------the complete inform-------')
         print(complete_info.solved)
@@ -167,6 +171,7 @@ class CompleteInform:
             'java': 0,
             'javascript': 0
         }
+        self.lock = 0
         self.total = 0
 
     def __repr__(self):
@@ -179,9 +184,9 @@ class Readme:
     update README.md when you finish one problem by some language
     """
 
-    def __init__(self, total, solved, others=None):
+    def __init__(self, total, solved, locked, others=None):
         """
-        
+
         :param total: total problems nums
         :param solved: solved problem nums
         :param others: 暂时还没用，我想做扩展
@@ -189,21 +194,23 @@ class Readme:
         self.total = total
         self.solved = solved
         self.others = others
+        self.locked = locked
         self.time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
         self.msg = '# Keep thinking, keep alive\n' \
-                   'Until {}, I have solved {} / {} problems. ' \
+                   'Until {}, I have solved **{}** / **{}** problems ' \
+                   'while **{}** are still locked.' \
                    '\n\nCompletion statistic: ' \
                    '\n1. JavaScript: {javascript} ' \
                    '\n2. Python++: {python}' \
                    '\n3. C++: {c++}' \
                    '\n4. Java: {java}' \
                    '\n\nNote: :lock: means you need to buy a book from LeetCode\n'.format(
-                    self.time, self.solved, self.total, **self.others)
+                    self.time, self.solved, self.total, self.locked, **self.others)
 
     def create_leetcode_readme(self, table_instance):
         """
         create REAdME.md
-        :return: 
+        :return:
         """
         file_path = Config.local_path + '/README.md'
         # write some basic inform about leetcode

@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2018-01-23 13:37:03, I have solved 59 / 686 problems. 
+Until 2018-01-23 17:27:08, I have solved **59** / **686** problems while **126** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
