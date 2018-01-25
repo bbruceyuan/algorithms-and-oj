@@ -121,6 +121,8 @@ class TableInform:
                 # print(os.path.join(oj_algorithms, folder))
                 for _, _, files in os.walk(os.path.join(oj_algorithms, folder)):
                     # print(files)
+                    if len(files) != 0:
+                        complete_info.complete_num += 1
                     for item in files:
                         # print(os.path.abspath(item))
                         # print(folder)
@@ -152,8 +154,10 @@ class TableInform:
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
                             # print(folder_url)
                             self.table_item[folder[:3]].javascript = '[JavaScript]({})'.format(folder_url)
-        complete_num = sorted(complete_info.solved.items(), key=lambda item_: item_[1], reverse=True)[0][1]
-        readme = Readme(complete_info.total, complete_num, complete_info.lock, complete_info.solved)
+        readme = Readme(complete_info.total,
+                        complete_info.complete_num,
+                        complete_info.lock,
+                        complete_info.solved)
         readme.create_leetcode_readme([self.table, self.table_item])
         print('-------the complete inform-------')
         print(complete_info.solved)
@@ -171,6 +175,7 @@ class CompleteInform:
             'java': 0,
             'javascript': 0
         }
+        self.complete_num = 0
         self.lock = 0
         self.total = 0
 
@@ -201,7 +206,7 @@ class Readme:
                    'while **{}** are still locked.' \
                    '\n\nCompletion statistic: ' \
                    '\n1. JavaScript: {javascript} ' \
-                   '\n2. Python++: {python}' \
+                   '\n2. Python: {python}' \
                    '\n3. C++: {c++}' \
                    '\n4. Java: {java}' \
                    '\n\nNote: :lock: means you need to buy a book from LeetCode\n'.format(

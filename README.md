@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-01-23 17:27:08, I have solved **59** / **686** problems while **126** are still locked.
+Until 2018-01-25 14:24:45, I have solved **61** / **686** problems while **126** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python++: 3
+2. Python: 4
 3. C++: 1
 4. Java: 1
 
@@ -652,7 +652,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |722|[Remove Comments](https://leetcode.com/problems/remove-comments/description/) |Medium|To Do|To Do|To Do|To Do|
 |723|[Candy Crush](https://leetcode.com/problems/candy-crush/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) |Easy|To Do|To Do|To Do|To Do|
-|725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) |Medium|To Do|To Do|To Do|To Do|
+|725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) |Medium|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/725.%20Split%20Linked%20List%20in%20Parts/solution.py)|To Do|To Do|
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/) |Hard|To Do|To Do|To Do|To Do|
 |727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) |Easy|To Do|To Do|To Do|To Do|
