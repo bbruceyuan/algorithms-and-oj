@@ -47,8 +47,7 @@ class Solution(object):
             return None, None
         tmp = curr
         for i in range(length - 1):
-            if curr:
-                curr = curr.next
+            curr = curr.next
         next_head = curr.next
         curr.next = None
         return tmp, next_head
