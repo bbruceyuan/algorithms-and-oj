@@ -13,3 +13,19 @@ class Solution(object):
                 if q != i:
                     break
         return [i, q]
+
+
+class Solution2(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        d = {}
+        for index, item in enumerate(nums):
+            if d.get(target - item, None) or d.get(target - item, None) == 0:
+                return [d.get(target - item), index]
+            else:
+                d[item] = index
+

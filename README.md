@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-01-27 14:23:21, I have solved **65** / **686** problems while **126** are still locked.
+Until 2018-01-28 19:41:07, I have solved **67** / **690** problems while **126** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 8
+2. Python: 10
 3. C++: 1
 4. Java: 1
 
@@ -441,14 +441,14 @@ Note: :lock: means you need to buy a book from LeetCode
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) |Medium|To Do|To Do|To Do|To Do|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) |Medium|To Do|To Do|To Do|To Do|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) |Medium|To Do|To Do|To Do|To Do|
-|453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) |Easy|To Do|To Do|To Do|To Do|
+|453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements/solution.py)|To Do|To Do|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) |Easy|To Do|To Do|To Do|To Do|
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/description/) |Medium|To Do|To Do|To Do|To Do|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) |Easy|To Do|To Do|To Do|To Do|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) |Hard|To Do|To Do|To Do|To Do|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) |Easy|To Do|To Do|To Do|To Do|
-|462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) |Medium|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/solution.py)|To Do|To Do|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) |Easy|To Do|To Do|To Do|To Do|
 |464|[Can I Win](https://leetcode.com/problems/can-i-win/description/) |Medium|To Do|To Do|To Do|To Do|
 |465|[Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
@@ -698,4 +698,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) |Medium|To Do|To Do|To Do|To Do|
 |770|[Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/description/) |Hard|To Do|To Do|To Do|To Do|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) |Easy|To Do|To Do|To Do|To Do|
 |772|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) |Hard|To Do|To Do|To Do|To Do|
+|773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) |Hard|To Do|To Do|To Do|To Do|
+|774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/) |Hard|To Do|To Do|To Do|To Do|
+|775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) |Medium|To Do|To Do|To Do|To Do|
