@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-01 14:31:27, I have solved **70** / **690** problems while **131** are still locked.
+Until 2018-02-02 10:21:59, I have solved **71** / **690** problems while **131** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 13
+2. Python: 14
 3. C++: 1
 4. Java: 1
 
@@ -202,7 +202,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) |Easy|To Do|To Do|To Do|To Do|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|To Do|To Do|To Do|To Do|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |Easy|To Do|To Do|To Do|To Do|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/206.%20Reverse%20Linked%20List/solution.py)|To Do|To Do|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |Medium|To Do|To Do|To Do|To Do|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |Medium|To Do|To Do|To Do|To Do|
