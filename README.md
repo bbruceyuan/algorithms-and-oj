@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-02 10:21:59, I have solved **71** / **690** problems while **131** are still locked.
+Until 2018-02-03 10:10:13, I have solved **72** / **690** problems while **131** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 14
+2. Python: 15
 3. C++: 1
 4. Java: 1
 
@@ -104,7 +104,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|To Do|To Do|To Do|To Do|
 |090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|To Do|To Do|To Do|To Do|
-|092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|To Do|To Do|To Do|To Do|
+|092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/092.%20Reverse%20Linked%20List%20II/solution.py)|To Do|To Do|
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|To Do|To Do|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|To Do|To Do|
