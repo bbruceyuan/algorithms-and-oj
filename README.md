@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-04 22:27:37, I have solved **73** / **694** problems while **132** are still locked.
+Until 2018-02-04 23:14:38, I have solved **74** / **694** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 16
+2. Python: 17
 3. C++: 1
 4. Java: 1
 
@@ -116,7 +116,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/101.%20Symmetric%20Tree/isSymmetric.js)|To Do|To Do|To Do|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.py)|To Do|To Do|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Easy|To Do|To Do|To Do|To Do|
