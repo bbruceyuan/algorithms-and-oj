@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-07 16:47:46, I have solved **78** / **694** problems while **132** are still locked.
+Until 2018-02-07 17:11:39, I have solved **79** / **694** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 21
+2. Python: 22
 3. C++: 1
 4. Java: 1
 
@@ -120,7 +120,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/solution.py)|To Do|To Do|
-|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) |Easy|To Do|To Do|To Do|To Do|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/solution.py)|To Do|To Do|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree/solution.py)|To Do|To Do|
