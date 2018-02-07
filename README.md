@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-07 16:38:07, I have solved **77** / **694** problems while **132** are still locked.
+Until 2018-02-07 16:47:46, I have solved **78** / **694** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 20
+2. Python: 21
 3. C++: 1
 4. Java: 1
 
@@ -576,7 +576,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |634|[Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |635|[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |636|[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/) |Medium|To Do|To Do|To Do|To Do|
-|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/637.%20Average%20of%20Levels%20in%20Binary%20Tree/solution.py)|To Do|To Do|
 |638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/description/) |Medium|To Do|To Do|To Do|To Do|
 |639|[Decode Ways II](https://leetcode.com/problems/decode-ways-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/description/) |Medium|To Do|To Do|To Do|To Do|
