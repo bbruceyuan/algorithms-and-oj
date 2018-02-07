@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-07 17:38:23, I have solved **80** / **694** problems while **132** are still locked.
+Until 2018-02-07 20:56:21, I have solved **81** / **694** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 23
+2. Python: 24
 3. C++: 1
 4. Java: 1
 
@@ -124,7 +124,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/110.%20Balanced%20Binary%20Tree/solution.py)|To Do|To Do|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree/solution.py)|To Do|To Do|
-|112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|To Do|To Do|To Do|To Do|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/112.%20Path%20Sum/solution.py)|To Do|To Do|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) |Hard|To Do|To Do|To Do|To Do|
