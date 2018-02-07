@@ -26,7 +26,7 @@ class Solution:
             tmp = []
             for _ in range(q.qsize()):
                 item = q.get()
-                tmp.push(item.val)
+                tmp.append(item.val)
                 if item.left is not None:
                     q.put(item.left)
                 if item.right is not None:
