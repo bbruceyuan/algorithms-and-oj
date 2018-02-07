@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-06 20:33:26, I have solved **75** / **694** problems while **132** are still locked.
+Until 2018-02-07 15:16:30, I have solved **76** / **694** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 18
+2. Python: 19
 3. C++: 1
 4. Java: 1
 
@@ -114,7 +114,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Hard|To Do|To Do|To Do|To Do|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/100.%20Same%20Tree/isSameTree.js)|To Do|To Do|To Do|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/101.%20Symmetric%20Tree/isSymmetric.js)|To Do|To Do|To Do|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal/solution.py)|To Do|To Do|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.py)|To Do|To Do|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
