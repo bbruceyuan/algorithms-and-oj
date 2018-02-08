@@ -31,7 +31,8 @@ class Solution:
         while len(nodes) != 0:
             curr = nodes.pop()
             if curr.left is None and curr.right is None:
-                if curr.val == sum_: return True
+                if curr.val == sum_:
+                    return True
             if curr.left is not None:
                 curr.left.val = curr.val + curr.left.val
                 nodes.append(curr.left)
