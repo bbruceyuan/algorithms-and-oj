@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-08 12:56:00, I have solved **84** / **694** problems while **132** are still locked.
+Until 2018-02-09 18:52:03, I have solved **85** / **694** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 27
+2. Python: 28
 3. C++: 1
 4. Java: 1
 
@@ -137,7 +137,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/maxProfit.js)|To Do|To Do|To Do|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |Hard|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/maxProfit.js)|To Do|To Do|To Do|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|To Do|To Do|To Do|To Do|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|To Do|To Do|To Do|To Do|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/125.%20Valid%20Palindrome/solution.py)|To Do|To Do|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/) |Medium|To Do|To Do|To Do|To Do|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
