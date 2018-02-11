@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-09 18:52:03, I have solved **85** / **694** problems while **132** are still locked.
+Until 2018-02-11 14:09:08, I have solved **86** / **698** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 28
+2. Python: 29
 3. C++: 1
 4. Java: 1
 
@@ -153,7 +153,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |Medium|To Do|To Do|To Do|To Do|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/) |Medium|To Do|To Do|To Do|To Do|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/description/) |Hard|To Do|To Do|To Do|To Do|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |Easy|To Do|To Do|To Do|To Do|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/141.%20Linked%20List%20Cycle/solution.py)|To Do|To Do|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -707,3 +707,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) |Hard|To Do|To Do|To Do|To Do|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/) |Medium|To Do|To Do|To Do|To Do|
+|780|[Reaching Points](https://leetcode.com/problems/reaching-points/description/) |Hard|To Do|To Do|To Do|To Do|
+|781|[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) |Medium|To Do|To Do|To Do|To Do|
+|782|[Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/description/) |Hard|To Do|To Do|To Do|To Do|
+|783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) |Easy|To Do|To Do|To Do|To Do|
