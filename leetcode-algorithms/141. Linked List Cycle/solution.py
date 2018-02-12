@@ -3,6 +3,8 @@
 """
 这题我竟然一下就想到了用双指针，太奇怪了吧。
 是因为以前做题还有点印想？
+
+append: 这题当然也可以用dict来做，保存前面出现过的 
 """
 
 # Definition for singly-linked list.
