@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-13 11:35:22, I have solved **89** / **698** problems while **132** are still locked.
+Until 2018-02-13 12:47:40, I have solved **90** / **698** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 32
+2. Python: 33
 3. C++: 1
 4. Java: 1
 
@@ -180,7 +180,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) |Medium|To Do|To Do|To Do|To Do|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/twoSum.js)|To Do|To Do|To Do|
-|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) |Easy|To Do|To Do|To Do|To Do|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/168.%20Excel%20Sheet%20Column%20Title/solution.py)|To Do|To Do|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/169.%20Majority%20Element/majorityElement.js)|To Do|To Do|To Do|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) |Easy|To Do|To Do|To Do|To Do|
