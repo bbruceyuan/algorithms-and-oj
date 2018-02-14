@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-13 12:47:40, I have solved **90** / **698** problems while **132** are still locked.
+Until 2018-02-14 11:54:04, I have solved **91** / **698** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 33
+2. Python: 34
 3. C++: 1
 4. Java: 1
 
@@ -200,7 +200,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) |Medium|To Do|To Do|To Do|To Do|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) |Easy|To Do|To Do|To Do|To Do|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|To Do|To Do|To Do|To Do|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/204.%20Count%20Primes/solution.py)|To Do|To Do|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/205.%20Isomorphic%20Strings/solution.py)|To Do|To Do|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/206.%20Reverse%20Linked%20List/solution.py)|To Do|To Do|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |Medium|To Do|To Do|To Do|To Do|
