@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-14 11:54:04, I have solved **91** / **698** problems while **132** are still locked.
+Until 2018-02-15 10:14:40, I have solved **92** / **698** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 34
+2. Python: 35
 3. C++: 1
 4. Java: 1
 
@@ -183,7 +183,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/168.%20Excel%20Sheet%20Column%20Title/solution.py)|To Do|To Do|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/169.%20Majority%20Element/majorityElement.js)|To Do|To Do|To Do|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
-|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) |Easy|To Do|To Do|To Do|To Do|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/171.%20Excel%20Sheet%20Column%20Number/solution.py)|To Do|To Do|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Easy|To Do|To Do|To Do|To Do|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) |Medium|To Do|To Do|To Do|To Do|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |Hard|To Do|To Do|To Do|To Do|
