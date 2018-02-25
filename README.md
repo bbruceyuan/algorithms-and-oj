@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-19 21:41:22, I have solved **93** / **702** problems while **132** are still locked.
+Until 2018-02-25 23:22:12, I have solved **94** / **706** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 39
+2. Python: 40
 3. C++: 1
 4. Java: 1
 
@@ -222,7 +222,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) |Medium|To Do|To Do|To Do|To Do|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) |Hard|To Do|To Do|To Do|To Do|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |Easy|To Do|To Do|To Do|To Do|
-|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |Easy|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree/solution.py)|To Do|To Do|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) |Medium|To Do|To Do|To Do|To Do|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -715,3 +715,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) |Medium|To Do|To Do|To Do|To Do|
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |Hard|To Do|To Do|To Do|To Do|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |Medium|To Do|To Do|To Do|To Do|
+|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) |Easy|To Do|To Do|To Do|To Do|
+|789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) |Medium|To Do|To Do|To Do|To Do|
+|790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) |Medium|To Do|To Do|To Do|To Do|
+|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) |Medium|To Do|To Do|To Do|To Do|
