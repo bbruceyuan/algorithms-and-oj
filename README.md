@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-02-26 22:45:48, I have solved **94** / **706** problems while **132** are still locked.
+Until 2018-02-28 11:38:37, I have solved **94** / **706** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 41
+2. Python: 42
 3. C++: 1
 4. Java: 1
 
@@ -60,7 +60,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|To Do|To Do|
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/048.%20Rotate%20Image/rotate.js)|To Do|To Do|To Do|
+|048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/048.%20Rotate%20Image/rotate.js)|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/048.%20Rotate%20Image/solution.py)|To Do|To Do|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|To Do|To Do|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/050.%20Pow(x,%20n)/myPow.js)|To Do|To Do|To Do|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|To Do|To Do|To Do|To Do|
