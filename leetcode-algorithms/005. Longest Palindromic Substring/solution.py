@@ -29,6 +29,23 @@ class Solution:
         # 为什么要减一，因为结束之后，左右都各自加一或者减一了
         return right - left - 1
 
+    @staticmethod
+    def dynamic(s):
+        """
+        动态规划的方法来做
+        :param s: 
+        :return: 
+        """
+        dp = [[0 for _ in range(len(s))] for _ in range(len(s))]
+        ans = ''
+        for i in range(len(s) - 1, -1, -1):
+            for j in range(i, len(s)):
+                dp[i][j] = (s[i] == s[j] and (j - i < 2 or dp[i + 1][j - 1]))
+
+                if dp[i][j] and (ans == '' or j - i + 1 > len(ans)):
+                    ans = s[i:j+1]
+        return ans
+
 
 def main():
     s = Solution()
