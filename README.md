@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-03-02 10:54:43, I have solved **94** / **706** problems while **132** are still locked.
+Until 2018-03-02 13:39:53, I have solved **95** / **706** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 43
+2. Python: 44
 3. C++: 1
 4. Java: 1
 
@@ -17,7 +17,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/AddTwoNumbers.js)|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/002.%20Add%20Two%20Numbers/solution.py)|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/003.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.py)|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Arrays/findMedianOfTwoArray.js)|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/004.%20Median%20of%20Two%20Sorted%20Arrays/solution.py)|To Do|To Do|
-|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
+|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/005.%20Longest%20Palindromic%20Substring/solution.py)|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/007.%20Reverse%20Integer/reverse.js)|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/007.%20Reverse%20Integer/solution.py)|To Do|To Do|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|To Do|
