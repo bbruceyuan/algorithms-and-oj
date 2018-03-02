@@ -10,9 +10,12 @@ var reverse = function(x) {
     var sum = 0;
     while(x !== 0){
         sum = sum * 10 + x % 10;
+        // ~~ 取整数
         x = ~~(x / 10);
     }
-    
+
     return  (Math.abs(sum) > MAX) ? 0 : sum;
 
 };
+
+console.log(reverse(-21));
