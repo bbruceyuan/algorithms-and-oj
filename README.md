@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-03-03 20:39:41, I have solved **97** / **706** problems while **132** are still locked.
+Until 2018-03-20 19:36:17, I have solved **97** / **718** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 46
+2. Python: 47
 3. C++: 1
 4. Java: 1
 
@@ -26,7 +26,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/011.%20Container%20With%20Most%20Water/watercontainer.js)|To Do|To Do|To Do|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/012.%20Integer%20to%20Roman/solution.py)|To Do|To Do|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/romanToInt.js)|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/solution.py)|To Do|To Do|
-|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/014.%20Longest%20Common%20Prefix/longestPre.js)|To Do|To Do|To Do|
+|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/014.%20Longest%20Common%20Prefix/longestPre.js)|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/014.%20Longest%20Common%20Prefix/solution.py)|To Do|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/015.%203Sum/3Sum.js)|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/015.%203Sum/3sum.py)|To Do|To Do|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/016.%203Sum%20Closest/3sumClosest.js)|To Do|To Do|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -719,3 +719,15 @@ Note: :lock: means you need to buy a book from LeetCode
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) |Medium|To Do|To Do|To Do|To Do|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) |Medium|To Do|To Do|To Do|To Do|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) |Medium|To Do|To Do|To Do|To Do|
+|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) |Medium|To Do|To Do|To Do|To Do|
+|793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) |Hard|To Do|To Do|To Do|To Do|
+|794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) |Medium|To Do|To Do|To Do|To Do|
+|795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) |Medium|To Do|To Do|To Do|To Do|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) |Easy|To Do|To Do|To Do|To Do|
+|797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) |Medium|To Do|To Do|To Do|To Do|
+|798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) |Hard|To Do|To Do|To Do|To Do|
+|799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) |Medium|To Do|To Do|To Do|To Do|
+|800|[Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
+|801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/) |Medium|To Do|To Do|To Do|To Do|
+|802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) |Medium|To Do|To Do|To Do|To Do|
+|803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/) |Hard|To Do|To Do|To Do|To Do|

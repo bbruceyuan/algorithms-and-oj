@@ -24,8 +24,15 @@ class Solution2(object):
         """
         d = {}
         for index, item in enumerate(nums):
-            if d.get(target - item, None) or d.get(target - item, None) == 0:
+            # if d.get(target - item, None) or d.get(target - item, None) == 0:
+            if (target - item) in d:
                 return [d.get(target - item), index]
             else:
                 d[item] = index
 
+
+if __name__ == '__main__':
+    s = Solution()
+    print(s.twoSum([6, 2, 4], 6))
+    s = Solution2()
+    print(s.twoSum([6, 2, 4], 6))
