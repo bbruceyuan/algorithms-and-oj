@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2018-03-20 19:36:17, I have solved **97** / **718** problems while **133** are still locked.
+Until 2018-04-20 19:57:32, I have solved **97** / **734** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
@@ -731,3 +731,19 @@ Note: :lock: means you need to buy a book from LeetCode
 |801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/) |Medium|To Do|To Do|To Do|To Do|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) |Medium|To Do|To Do|To Do|To Do|
 |803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/) |Hard|To Do|To Do|To Do|To Do|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) |Easy|To Do|To Do|To Do|To Do|
+|805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) |Hard|To Do|To Do|To Do|To Do|
+|806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) |Easy|To Do|To Do|To Do|To Do|
+|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) |Medium|To Do|To Do|To Do|To Do|
+|808|[Soup Servings](https://leetcode.com/problems/soup-servings/description/) |Medium|To Do|To Do|To Do|To Do|
+|809|[Expressive Words](https://leetcode.com/problems/expressive-words/description/) |Medium|To Do|To Do|To Do|To Do|
+|810|[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/description/) |Hard|To Do|To Do|To Do|To Do|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) |Easy|To Do|To Do|To Do|To Do|
+|812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) |Easy|To Do|To Do|To Do|To Do|
+|813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/description/) |Medium|To Do|To Do|To Do|To Do|
+|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/) |Medium|To Do|To Do|To Do|To Do|
+|815|[Bus Routes](https://leetcode.com/problems/bus-routes/description/) |Hard|To Do|To Do|To Do|To Do|
+|816|[Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/description/) |Medium|To Do|To Do|To Do|To Do|
+|817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/) |Medium|To Do|To Do|To Do|To Do|
+|818|[Race Car](https://leetcode.com/problems/race-car/description/) |Hard|To Do|To Do|To Do|To Do|
+|819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/) |Easy|To Do|To Do|To Do|To Do|
