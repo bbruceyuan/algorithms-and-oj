@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-05-06 21:55:10, I have solved **98** / **746** problems while **133** are still locked.
+Until 2018-05-07 09:21:24, I have solved **99** / **746** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
-2. Python: 48
+2. Python: 49
 3. C++: 1
 4. Java: 1
 
@@ -29,7 +29,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/014.%20Longest%20Common%20Prefix/longestPre.js)|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/014.%20Longest%20Common%20Prefix/solution.py)|To Do|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/015.%203Sum/3Sum.js)|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/015.%203Sum/3sum.py)|To Do|To Do|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/016.%203Sum%20Closest/3sumClosest.js)|To Do|To Do|To Do|
-|017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|To Do|
+|017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/017.%20Letter%20Combinations%20of%20a%20Phone%20Number/solution.py)|To Do|To Do|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/018.%204Sum/4sum.js)|To Do|To Do|To Do|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|[JavaScript](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/isValid.js)|[Python](https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/solution.py)|To Do|To Do|
