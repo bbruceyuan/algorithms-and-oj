@@ -92,7 +92,7 @@ class TableInform:
 
     # create problems folders
     def __create_folder(self, oj_name):
-        oj_algorithms = Config.local_path + '/' + oj_name + '-algorithms'
+        oj_algorithms = Config.local_path + '/' + oj_name
         if os.path.exists(oj_algorithms):
             print(oj_name, ' algorithms is already exits')
         else:
@@ -100,6 +100,9 @@ class TableInform:
             os.mkdir(oj_algorithms)
         for item in self.table_item.values():
             question_folder_name = oj_algorithms + '/' + item.id_ + '. ' + item.title
+            if os.name != 'posix':
+                # 如果不是linux，那么就要吧后面的问号去掉
+                question_folder_name = question_folder_name[:-1]
             if not os.path.exists(question_folder_name):
                 print(question_folder_name + 'is not exits, create it now....')
                 os.mkdir(question_folder_name)
@@ -112,7 +115,7 @@ class TableInform:
         complete_info.total = len(self.table)
         complete_info.lock = self.locked
         self.__create_folder(oj)
-        oj_algorithms = Config.local_path + '/' + oj + '-algorithms'
+        oj_algorithms = Config.local_path + '/' + oj
         # 查看os.walk看具体返回的是什么东西
         for _, folders, _ in os.walk(oj_algorithms):
             # print(folders)
@@ -256,7 +259,7 @@ class Readme:
 
 def main():
     table = TableInform()
-    table.update_table('leetcode')
+    table.update_table('leetcode-algorithms')
 
 
 if __name__ == '__main__':

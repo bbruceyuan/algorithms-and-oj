@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2018-05-07 09:21:24, I have solved **99** / **746** problems while **133** are still locked.
+Until 2018-05-28 11:58:16, I have solved **99** / **758** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 59 
@@ -759,3 +759,15 @@ Note: :lock: means you need to buy a book from LeetCode
 |829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) |Easy|To Do|To Do|To Do|To Do|
 |831|[Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) |Medium|To Do|To Do|To Do|To Do|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|To Do|To Do|To Do|To Do|
+|833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/) |Medium|To Do|To Do|To Do|To Do|
+|834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) |Hard|To Do|To Do|To Do|To Do|
+|835|[Image Overlap](https://leetcode.com/problems/image-overlap/description/) |Medium|To Do|To Do|To Do|To Do|
+|836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/) |Easy|To Do|To Do|To Do|To Do|
+|837|[New 21 Game](https://leetcode.com/problems/new-21-game/description/) |Medium|To Do|To Do|To Do|To Do|
+|838|[Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) |Medium|To Do|To Do|To Do|To Do|
+|839|[Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/) |Hard|To Do|To Do|To Do|To Do|
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) |Easy|To Do|To Do|To Do|To Do|
+|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) |Medium|To Do|To Do|To Do|To Do|
+|842|[Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
+|843|[Guess the Word](https://leetcode.com/problems/guess-the-word/description/) |Hard|To Do|To Do|To Do|To Do|
